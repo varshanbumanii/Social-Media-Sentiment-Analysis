@@ -21,7 +21,6 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/twitter-sentiment-analysis.git
 cd twitter-sentiment-analysis
 Install dependencies:
 bash
